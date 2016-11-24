@@ -1,0 +1,23 @@
+We compile and run our program in the Ubuntu termianl.
+
+1. To compile our program, simply type "cmake ." and then type "make"
+
+
+
+2. The input format for our program(scanf):
+
+number of images
+
+image_1_fileName image_1_focal_length
+
+image_2_fileName image_2_focal_length
+
+image_3_fileName image_3_focal_length
+.
+.
+.
+.
+
+
+
+3. We output match_result.jpg and output.jpg
